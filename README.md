@@ -1,1 +1,1 @@
-# Barcode-Generator
+# QR-code
